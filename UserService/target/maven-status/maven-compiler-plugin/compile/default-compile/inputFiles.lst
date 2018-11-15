@@ -1,0 +1,11 @@
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/UserService/src/main/java/com/stackroute/keepnote/model/User.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/UserService/src/main/java/com/stackroute/keepnote/jwtfilter/JwtFilter.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/UserService/src/main/java/com/stackroute/keepnote/service/UserService.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/UserService/src/main/java/com/stackroute/keepnote/controller/UserController.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/UserService/src/main/java/com/stackroute/keepnote/UserServiceApplication.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/UserService/src/main/java/com/stackroute/keepnote/aspectj/LoggingAspect.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/UserService/src/main/java/com/stackroute/keepnote/config/SwaggerConfig.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/UserService/src/main/java/com/stackroute/keepnote/service/UserServiceImpl.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/UserService/src/main/java/com/stackroute/keepnote/repository/UserRepository.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/UserService/src/main/java/com/stackroute/keepnote/exceptions/UserNotFoundException.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/UserService/src/main/java/com/stackroute/keepnote/exceptions/UserAlreadyExistsException.java

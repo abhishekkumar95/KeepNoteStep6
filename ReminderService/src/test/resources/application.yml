@@ -1,0 +1,11 @@
+#spring:
+#  data:
+#    mongodb:
+# #     authentication-database:
+#      username: chandan
+#      password: root
+#      database: reminderDb
+#      port: 27017
+#      host: localhost
+server:
+  port: 8082

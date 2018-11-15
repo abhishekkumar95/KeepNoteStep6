@@ -1,0 +1,15 @@
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/model/Reminder.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/repository/NoteRepository.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/model/Category.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/aspectj/LoggingAspect.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/service/NoteService.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/model/NoteUser.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/service/NoteServiceImpl.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/mongo/MongoSequenceGenerator.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/exception/NoteNotFoundExeption.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/model/Note.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/exception/NoteAlreadyExistsException.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/jwtfilter/JwtFilter.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/controller/NoteController.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/config/SwaggerConfig.java
+/home/chandan/KeepNote-Solution/KeepNote-Step-6-Solution/NoteService/src/main/java/com/stackroute/keepnote/NoteServiceApplication.java

@@ -1,0 +1,14 @@
+#spring:
+#  data:
+#    mongodb:
+##      authentication-database: dbAdmin
+#      username: chandan
+#      password: root
+#      database: userDb
+#      port: 27017
+#      host: localhost
+server:
+  port: 8080
+
+
+
